@@ -1,5 +1,4 @@
 AMI_value = "ami-0da7657fe73215c0c"
 instance_type_value = "t2.medium"
 subnet_value = "subnet-06bb65ff3ed591cea"
-security_groups_value = "launch-wizard-3"
 key_name_value = "ING-HAck"
